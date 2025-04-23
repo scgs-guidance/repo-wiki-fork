@@ -5,3 +5,7 @@ Wow! Two of them!
 ## Blablablabla
 
 ### Header 3?!
+
+### え？なにですか？
+
+An edit? On MY Wiki?!
